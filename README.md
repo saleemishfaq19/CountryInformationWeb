@@ -1,15 +1,15 @@
-# 🌍 Country Information Website
+#  Country Information Website
 
-## 📌 Overview
+##  Overview
 
 The **Country Information Website** is a web application that allows users to search for any country and view detailed information such as its capital, population, region, currency, flag, and more. It uses a public API to fetch real-time country data and display it in a clean and user-friendly interface.
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 🔎 Search for any country by name
-* 🌐 Display country details:
+*  Search for any country by name
+*  Display country details:
 
   * Name
   * Capital
@@ -18,13 +18,13 @@ The **Country Information Website** is a web application that allows users to se
   * Currency
   * Language(s)
   * Flag
-* ⚡ Fast and responsive design
-* 📱 Mobile-friendly UI
-* 🔄 Real-time data using API
+*  Fast and responsive design
+*  Mobile-friendly UI
+*  Real-time data using API
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **React.js (JSX)** – Frontend development
 * **CSS / Tailwind CSS** – Styling and layout
@@ -33,7 +33,7 @@ The **Country Information Website** is a web application that allows users to se
 
 ---
 
-## 📡 API Used
+##  API Used
 
 This project uses the **REST Countries API** to fetch country information:
 
@@ -43,7 +43,7 @@ https://restcountries.com/v3.1/name/{countryName}
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 /src
@@ -57,7 +57,7 @@ https://restcountries.com/v3.1/name/{countryName}
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
 
@@ -85,7 +85,7 @@ npm run dev
 
 ---
 
-## 💡 Usage
+##  Usage
 
 * Enter a country name in the search bar
 * Click the search button
@@ -93,36 +93,36 @@ npm run dev
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
-* 🌙 Dark mode support
-* 📊 More detailed statistics (GDP, area, etc.)
-* ⭐ Favorite countries feature
-* 🔍 Filter by region
+*  Dark mode support
+*  More detailed statistics (GDP, area, etc.)
+*  Favorite countries feature
+*  Filter by region
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 If you'd like to improve this project, feel free to fork the repo and submit a pull request.
 
 ---
 
-## 📜 License
+##  License
 
 This project is open-source and available under the **MIT License**.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * REST Countries API for providing free country data
 * Developers and open-source community
 
 ---
 
-## 📧 Contact
+##  Contact
 
 For any questions or suggestions, feel free to reach out.
 
